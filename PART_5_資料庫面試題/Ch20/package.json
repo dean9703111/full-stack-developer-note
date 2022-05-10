@@ -1,0 +1,14 @@
+{
+  "name": "redis_high_concurrency_projects",
+  "version": "1.0.0",
+  "description": "如何解決高併發情境的商品秒殺問題",
+  "main": "redis_seckill.js",
+  "scripts": {
+    "test": "node redis_seckill.js"
+  },
+  "author": "Dean Lin",
+  "license": "ISC",
+  "dependencies": {
+    "ioredis": "^4.28.5"
+  }
+}
