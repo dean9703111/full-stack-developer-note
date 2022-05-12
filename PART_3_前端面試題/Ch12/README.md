@@ -19,7 +19,7 @@ const person_schema = {
 
 - **SETP 1**：建立一個專案資料夾。
 - **SETP 2**：在終端機輸入 `npm init` 初始化專案。
-- **SETP 3**：在終端機輸入 `npm i jsonschema` 安裝套件。
+- **SETP 3**：在終端機輸入 `npm install jsonschema` 安裝套件。
 
 ### 12.2.3 「jsonschema」驗證範例
 

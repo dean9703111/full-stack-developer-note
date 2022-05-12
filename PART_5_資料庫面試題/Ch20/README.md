@@ -13,7 +13,7 @@
 - **主程式：redis-seckill.js**
 
   - 先啟用 Redis Client 端。
-  - 建立專案資料夾，在資料夾下輸入 `npm init` 初始化專案，再輸入 `yarn add ioredis` 來安裝套件。
+  - 建立專案資料夾，在資料夾下輸入 `npm init` 初始化專案，再輸入 `npm install ioredis` 來安裝套件。
   - 用 `prepare` 函式，以 Hash type 建立參加秒殺的產品庫存。
   - 用 `seckill` 函式模擬使用者購買行為，緩存並執行 Lua 腳本。
 
