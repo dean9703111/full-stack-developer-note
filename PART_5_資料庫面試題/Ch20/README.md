@@ -10,7 +10,7 @@
   - [在 Windows 下載與安裝 Redis](https://marcus116.blogspot.com/2019/02/how-to-install-redis-in-windows-os.html)
   - [Redis 管理工具 - Another Redis Desktop Manager](https://marcus116.blogspot.com/2020/04/tool-redis-another-redis-desktop-manager.html)
 
-- **主程式：redis_seckill.js**
+- **主程式：redis-seckill.js**
 
   - 先啟用 Redis Client 端。
   - 建立專案資料夾，在資料夾下輸入 `npm init` 初始化專案，再輸入 `yarn add ioredis` 來安裝套件。
