@@ -212,7 +212,7 @@ function qa(testTimes = 10000) {
 }
 qa();
 
-// console.log(lottery(initLuckyBox()))
+// console.log(lottery(initLuckyBox()));
 ```
 
 若想測試，可以直接使用 [final-lottery.js](./final-lottery.js)，於終端輸入`node final-lottery.js`即可測試。
