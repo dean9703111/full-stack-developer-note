@@ -100,7 +100,7 @@ function validateInput(firstPrize, secondPrize, thirdPrize) {
 const argsArray = [
   [100, 2.34, 3.567], //中獎率不可能超過100
   [-1, 2.34, 3.567], //機率不可為負
-  [1, "錯誤", 3.567], //含有文字
+  [1, "錯誤", 3.567], //機率不可含有文字
   [1, 2.34, 3.567],
 ];
 
