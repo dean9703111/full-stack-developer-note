@@ -11,13 +11,11 @@ Node.js 可以透過 PM2 的 Cluster Mode 達到多執行緒：[PM2](https://pm2
 - **STEP 2**：建立一個`myapp.js`的檔案，並複製貼上下面程式
 
   ```js
-  var http = require("http");
-  http
-    .createServer(function (req, res) {
-      res.writeHead(200, { "Content-Type": "text/plain" });
-      res.end("Hello World!");
-    })
-    .listen(3000, "127.0.0.1");
+  var http = require('http');
+  http.createServer(function (req, res) {
+    res.writeHead(200, { 'Content-Type': 'text/plain' });
+    res.end('Hello World!');
+  }).listen(3000, '127.0.0.1'); 
   ```
 
 - **STEP 3**：用`node myapp.js`啟動程式後，修改`res.end("Hello World!");`的內容；刷新網頁後`內容不變`。
