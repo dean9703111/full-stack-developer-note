@@ -2,9 +2,9 @@
 
 ## 從「履歷×面試×職場」打造無可取代的軟實力
 
-![image](./img/bar.png)
+![image](./img/bar.jpg)
 
-有興趣的朋友可以到天瓏書局選購，感謝大家的支持。[購書連結](https://www.tenlong.com.tw/products/9786263331525)
+有興趣的朋友可以到天瓏書局選購，感謝大家的支持。[購書連結](https://www.tenlong.com.tw/products/9786263334571)
 
 ### 參考資源目錄
 
